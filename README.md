@@ -2,20 +2,20 @@
 
 The Paint Brush Project is a digital artwork application designed to empower users in expressing their creativity. With a user-friendly interface and a comprehensive set of drawing tools, it offers a seamless experience for artistic expression.
 
-Features
+# Features
 Drawing Section
 Unleash your creativity and draw freely with various tools and options.
 
-Control Section
+# Control Section
 Choose from a range of drawing modes and customize your artwork.
 
-Custom Shapes
+# Custom Shapes
 Enjoy the flexibility of drawing shapes such as rectangles, squares, lines (vertical and horizontal), ovals, and circles.
 
-Free Style Drawing Pen
+# Free Style Drawing Pen
 Express yourself with more artistic freedom using the free style drawing pen.
 
-Erase Functionality
+# Erase Functionality
 Easily remove any unwanted shapes or lines from your artwork.
 
 Color Selection
